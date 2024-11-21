@@ -38,19 +38,6 @@
     "timestamp": "1732184839",
     "create_date": "2024-11-21 07:27:19"
   },
-  "ARS": {
-    "code": "ARS",
-    "codein": "EUR",
-    "name": "Peso Argentí/Euro",
-    "high": "0.0028",
-    "low": "0.0027",
-    "varBid": "0.0001",
-    "pctChange": "3.70",
-    "bid": "0.0028",
-    "ask": "0.0029",
-    "timestamp": "1732184844",
-    "create_date": "2024-11-21 07:27:24"
-  },
   "JPY": {
     "code": "JPY",
     "codein": "EUR",
@@ -90,17 +77,4 @@
     "timestamp": "1732184846",
     "create_date": "2024-11-21 07:27:26"
   },
-  "CNY": {
-    "code": "CNY",
-    "codein": "EUR",
-    "name": "Yuan Xinès/Euro",
-    "high": "0.1307",
-    "low": "0.1298",
-    "varBid": "0.0007",
-    "pctChange": "0.54",
-    "bid": "0.1302",
-    "ask": "0.1308",
-    "timestamp": "1732184822",
-    "create_date": "2024-11-21 07:27:02"
-  }
 }
